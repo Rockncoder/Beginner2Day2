@@ -11,8 +11,17 @@
             };
 
             $scope.subtract = function(a, b){
-                return a - b;
-            }
+                var result = a - b;
+                return result;
+            };
+
+
+            $scope.multiply = function(a, b){
+                var result = a * b;
+                debugger;
+                return result;
+            };
+
         })
 
 }());
