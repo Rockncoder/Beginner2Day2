@@ -2,10 +2,22 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+        <item url="file://$PROJECT_DIR$/out/quickstart/bob.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/quickstart/bob.es6/quickstart/bob.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+        <item url="file://$PROJECT_DIR$/out/labs/service.js" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+        <item url="file://$PROJECT_DIR$/out/quickstart/app.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/quickstart/app.es6/quickstart/app.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
         <item url="file://$PROJECT_DIR$/out/labs/unit-test.js" />
         <item url="file://$PROJECT_DIR$/out/labs/unit-test-spec.js" />
-        <item url="file://$PROJECT_DIR$/out/labs/service.js" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
         <item url="file://$PROJECT_DIR$/out/labs/app.js" />
+        <item url="file://$PROJECT_DIR$/out/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -257,10 +269,22 @@
       <root url="file://$PROJECT_DIR$/out/solutions/quickstart/angular2/src/core/compiler/pipeline/element_binder_builder.js" />
       <root url="file://$PROJECT_DIR$/out/solutions/quickstart/angular2/src/core/compiler/pipeline/compile_pipeline.js" />
       <root url="file://$PROJECT_DIR$/out/solutions/quickstart/angular2/src/core/compiler/pipeline/directive_parser.js" />
+      <root url="file://$PROJECT_DIR$/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+      <root url="file://$PROJECT_DIR$/out/quickstart/bob.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/quickstart/bob.es6/quickstart/bob.es6" />
+      <root url="file://$PROJECT_DIR$/out/labs/service.js" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+      <root url="file://$PROJECT_DIR$/out/quickstart/app.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/quickstart/app.es6/quickstart/app.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
+      <root url="file://$PROJECT_DIR$/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
       <root url="file://$PROJECT_DIR$/out/labs/unit-test-spec.js" />
       <root url="file://$PROJECT_DIR$/out/labs/unit-test.js" />
-      <root url="file://$PROJECT_DIR$/out/labs/service.js" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6/out/out/quickstart/app.es6/quickstart/app.es6/out/quickstart/app.es6/quickstart/app.es6" />
       <root url="file://$PROJECT_DIR$/out/labs/app.js" />
+      <root url="file://$PROJECT_DIR$/out/out/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6/out/out/quickstart/bob.es6/quickstart/bob.es6/out/quickstart/bob.es6/quickstart/bob.es6" />
     </CLASSES>
     <SOURCES />
   </library>
