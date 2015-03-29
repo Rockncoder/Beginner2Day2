@@ -4,6 +4,7 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/out/labs/unit-test.js" />
         <item url="file://$PROJECT_DIR$/out/labs/unit-test-spec.js" />
+        <item url="file://$PROJECT_DIR$/out/labs/service.js" />
         <item url="file://$PROJECT_DIR$/out/labs/app.js" />
       </sourceFilesUrls>
     </properties>
@@ -258,6 +259,7 @@
       <root url="file://$PROJECT_DIR$/out/solutions/quickstart/angular2/src/core/compiler/pipeline/directive_parser.js" />
       <root url="file://$PROJECT_DIR$/out/labs/unit-test-spec.js" />
       <root url="file://$PROJECT_DIR$/out/labs/unit-test.js" />
+      <root url="file://$PROJECT_DIR$/out/labs/service.js" />
       <root url="file://$PROJECT_DIR$/out/labs/app.js" />
     </CLASSES>
     <SOURCES />
