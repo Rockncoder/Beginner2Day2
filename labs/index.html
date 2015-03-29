@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="UnitTestApp">
+<html lang="en" ng-app="MyApp">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,15 +19,21 @@
 
 <div class="container">
 
-    <div ng-controller="MathController">
-        <input type="text" ng-model="val1"/>
-        <input type="text" ng-model="val2"/>
+    <div ng-controller="AppController">
+        <h2>{{message}}</h2>
 
-        <button class="btn" ng-click="result = add(+val1, +val2)">Add</button>
-        <br/>
-        <button class="btn" ng-click="result = subtract(+val1, +val2)">Sub</button>
+        <div class="row">
+            <aside class="col-lg-3">
+                <ul class="list-group">
+                    <li ng-repeat="contact in contacts" class="list-group-item">
+                        <span>
+                            <span ng-bind="contact.firstName+' '+contact.lastName"></span>
+                        </span>
+                    </li>
+                </ul>
 
-        <span ng-bind="result"></span>
+            </aside>
+        </div>
     </div>
 </div>
 <!-- /container -->
@@ -40,8 +46,7 @@
 <script src="../libs/angular/angular.js"></script>
 <script src="../libs/bootstrap/bootstrap.js"></script>
 
-<script src="unit-test.js"></script>
-
+<script src="app.js"></script>
 
 
 </body>
