@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="UnitTestApp">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AngularJS Beginner Two Day Workshop">
+    <meta name="author" content="Troy Miles aka the rockncoder">
+    <title>AngularJS - Beginner - Two Day</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/bootstrap-theme.css" rel="stylesheet">
+    <link href="../css/navbar-fixed-top.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+</head>
+
+<body>
+
+<div class="container">
+
+    <div ng-controller="MathController">
+        <input type="text" ng-model="val1"/>
+        <input type="text" ng-model="val2"/>
+
+        <button class="btn" ng-click="result = add(+val1, +val2)">Add</button>
+        <button class="btn" ng-click="result = add(+val1, +val2)">Add</button>
+
+        <span ng-bind="result"></span>
+    </div>
+</div>
+<!-- /container -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../libs/jquery/jquery-1.11.2.js"></script>
+<script src="../libs/angular/angular.js"></script>
+<script src="../libs/bootstrap/bootstrap.js"></script>
+
+<script src="unit-test.js"></script>
+
+
+</body>
+</html>
