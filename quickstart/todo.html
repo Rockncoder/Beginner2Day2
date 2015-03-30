@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Todo</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/bootstrap-theme.css" rel="stylesheet">
+    <link href="../css/navbar-fixed-top.css" rel="stylesheet">
+
+    <script src="dist/es6-shim.js"></script>
+</head>
+<body class="container">
+<todo-app></todo-app>
+
+<script>
+    System.paths = {
+        'angular2/*': 'angular2/*.js',
+        'rtts_angular/*': 'rtts_assert/*.',
+        'components/*':'components/*.es6',
+        'services/*':'services/*.es6',
+        'app':'components/app.es6'
+    };
+
+    System.import('app');
+</script>
+</body>
+</html>
